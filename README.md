@@ -85,8 +85,6 @@
   </section>
 
   <footer style="margin-top: 40px; font-size: 0.9rem; color: #777;">
-    آدرس: تهران، خیابان ... <br>
-    اینستاگرام: @esperlos.cafe
   </footer>
 </body>
 </html>
